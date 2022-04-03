@@ -1,5 +1,5 @@
 # springBootSSMP
-该项目是基于springBoot创建的Spring+SpringMVC+Mybatis-Plus项目
+该项目是基于springBoot，快速创建的Spring+SpringMVC+Mybatis-Plus工程。
 
 后端：
 
